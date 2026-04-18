@@ -3,7 +3,7 @@
 An interactive Excel dashboard analyzing global data science and data analyst job postings, built to explore salary trends across countries, job titles, and role types.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png.png)
 
 ## Overview
 This project uses a dataset of 1000+ real job postings scraped from multiple job platforms across various countries. The dashboard allows users to dynamically filter and explore the data through interactive slicers and charts.
